@@ -1,4 +1,4 @@
-"As a parent, I want to find age-appropriate tech resources for my child so that they can learn about technology in a safe and engaging way."
+"As a parent, I want to be able to track my child's progress on the website so that I can monitor their learning and see where they might need extra support."
 
 By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
 

@@ -1,15 +1,15 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Design and develop a game to teach coding concepts
 
-User Story: [Reference the user story that this task supports]
+User Story: As a young user of the website, I want to play interactive games to learn about technology and have fun.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: Develop interactive games that teach kids about technology concepts such as coding, robotics, and engineering. The games should be visually appealing, have clear instructions, and be appropriate for the target age group. 
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate:  80 hours
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: Samuel
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: High
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: In progress
 
-Notes: [Include]
+Notes:  The development team will test the game for bugs and errors and make necessary changes.
