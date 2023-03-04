@@ -1,4 +1,4 @@
-"Title of the Epic"
+"Creating website for kids"
 
 Description: [The epic is about creating a website to help kids get familiar with technology, with the goal of fostering their interest and skills in tech-related fields.
 
