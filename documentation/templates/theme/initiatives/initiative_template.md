@@ -1,4 +1,4 @@
-"Title of the Initiative"
+"Technology for children website"
 
 Description: Develop an online platform to help kids learn about and get familiar with technology.
 
