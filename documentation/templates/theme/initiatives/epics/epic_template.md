@@ -2,7 +2,7 @@
 
 Description: [The epic is about creating a website to help kids get familiar with technology, with the goal of fostering their interest and skills in tech-related fields.
 
-Goals: Introduce various aspects of technology such as programming, robotics, and electronics to kids. 
+Goals: Introduce various aspects of technology such as programming, robotics, teamwork and electronics to kids. 
 
 User Stories: As a kid, I want to be able to explore and learn about different technologies in a fun and interactive way.
 
